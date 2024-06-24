@@ -2,8 +2,8 @@ name: hybrid_hex_color_converter
 description: "Hybrid hex Color, Allows you to convert hexadecimal strings into flutters Color property and vice versa"
 version: 0.0.1
 homepage: https://rudo.es/
-repository: https://github.com/rudoapps/hybrid-hex-color-converter
-issue_tracker: https://github.com/gskinner/flutter_animate/issues
+repository: https://github.com/rudoapps/hybrid_hex_color_converter.git
+issue_tracker: https://github.com/rudoapps/hybrid_hex_color_converter/issues
 topics:
  - colors
  - hexadecimal
